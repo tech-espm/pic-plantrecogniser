@@ -19,7 +19,7 @@ _Obs¹: You can find the input values at the data folder_
 
 ## Structure ##
 
-You can find at the paes.sigmoid.training the training algorithm. At this file we have the propagation and the backpropagation, and the goal of this archive is to achieve the best Layer's weights.
+You can find at the __paes._sigmoid_.training__ the training algorithm for the sigmoid function. At this file we have the propagation and the backpropagation. The main goal of this kind of structure is to achieve the best Layer's weights.
 
 ### Variables ###
 
@@ -29,6 +29,21 @@ You can find at the paes.sigmoid.training the training algorithm. At this file w
 
 _Obs²: 1 age is equals 120 iterations_
 
+### Methods ###
+
+#### Propagation ####
+* ponderationL1();
+* activationL1();
+* ponderationL2();
+* activationL2();
+
+* errorCalculation();
+
+#### BackPropagation ####
+* gradientCalculationL2();
+* gradientCalculationL1();
+* weightsUpdateL2();
+* weightsUpdateL1();
 ---------------------------------------
 
 ## Outputs ##
@@ -43,16 +58,31 @@ The output layer has __3__ nodes. The following combination represents one of th
 
 ## Activation Functions and Coeficient Gradient ##
 
-__Sigmoid Function:__
-* f(x) = 1/(1 + Math.exp(-x))
+__Sigmoid Logistic Function:__
+* [x] f(x) = 1/(1 + Math.exp(-x))
+* [x] f'(x) = 1/(1 + Math.exp(-x)).(1 - (1/(1 + Math.exp(-x))))
+
+__reLU (Rectified linear unit):__
+* [ ] f(x):
+  * 0 for x < 0
+  * x for x >= 0
+      
+* [ ] f'(x):
+  * 0 for x < 0
+  * 1 for x >= 0
+      
+__Softplus:__
+* [ ] f(x) = ln(1 + Math.exp(x))
+* [ ] f'(x) = 1/(1 + Math.exp(-x));
 
 --------------------------------------------------
-
 
 ## References Links ##
 
-The sample repository:
+__Sample repository:__
 * <https://archive.ics.uci.edu/ml/datasets/iris/>
 
---------------------------------------------------
+__Activation Functions:__
+* <https://en.wikipedia.org/wiki/Activation_function/>
 
+--------------------------------------------------
