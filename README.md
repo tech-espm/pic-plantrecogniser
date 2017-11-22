@@ -36,11 +36,9 @@ _Obs²: 1 age is equals 120 iterations_
 * activationL1();
 * ponderationL2();
 * activationL2();
----------------------------
 
 * errorCalculation();
 
---------------------------
 #### BackPropagation ####
 * gradientCalculationL2();
 * gradientCalculationL1();
