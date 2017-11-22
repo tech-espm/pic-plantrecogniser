@@ -19,7 +19,7 @@ _Obs¹: You can find the input values at the data folder_
 
 ## Structure ##
 
-You can find at the __paes._sigmoid_.training__ the training algorithm for the sigmoid function. At this file we have the propagation and the backpropagation. The main goal of this kind of structure is to achieve the best Layer's weights.
+You can find at the __paes._sigmoid_.training__ the training algorithm for the sigmoid function. This file contains the propagation and the backpropagation algorithm, and the main goal of this structure is to achieve the best Layer's weights.
 
 ### Variables ###
 
@@ -36,9 +36,11 @@ _Obs²: 1 age is equals 120 iterations_
 * activationL1();
 * ponderationL2();
 * activationL2();
+---------------------------
 
 * errorCalculation();
 
+--------------------------
 #### BackPropagation ####
 * gradientCalculationL2();
 * gradientCalculationL1();
@@ -56,26 +58,24 @@ The output layer has __3__ nodes. The following combination represents one of th
 
 ----------------------------
 
-## Activation Functions and Coeficient Gradient ##
+## Results ##
 
-__Sigmoid Logistic Function:__
-* [x] f(x) = 1/(1 + Math.exp(-x))
-* [x] f'(x) = 1/(1 + Math.exp(-x)).(1 - (1/(1 + Math.exp(-x))))
+#### Sigmoid Function ####
 
-__reLU (Rectified linear unit):__
-* [ ] f(x):
-  * 0 for x < 0
-  * x for x >= 0
-      
-* [ ] f'(x):
-  * 0 for x < 0
-  * 1 for x >= 0
-      
-__Softplus:__
-* [ ] f(x) = ln(1 + Math.exp(x))
-* [ ] f'(x) = 1/(1 + Math.exp(-x));
+* __2 Neurons:__
+  * 66.67 % Success (20/30 successes);
+ 
+* __3 Neurons:__
+  * 93.33 % Success (28/30 successes);
+ 
+* __8 Neurons:__
+  * 93.33 % Success (28/30 successes);
 
---------------------------------------------------
+#### reLU (Rectified linear unit) ####
+
+#### Softplus ####
+
+---------------------------------------
 
 ## References Links ##
 
