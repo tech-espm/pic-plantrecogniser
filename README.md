@@ -13,7 +13,7 @@ The input layer has __4__ nodes and accept this following normalized values:
 * 3. petal length in cm 
 * 4. petal width in cm 
 
-_Obs¹: You can find the input values at the data folder_
+_Obs¹: You can find the input values at the data folder._
 
 ----------------------------
 
@@ -27,7 +27,7 @@ You can find at the __paes._sigmoid_.training__ the training algorithm for the s
 * int minValue = 0 - _This variable is responsible for control the input's matrix;_
 * int age = 1 - _This variable is responsible for count the number of ages;_
 
-_Obs²: 1 age is equals 120 iterations_
+_Obs²: 1 age is equals 120 iterations._
 
 ### Methods ###
 
@@ -37,6 +37,7 @@ _Obs²: 1 age is equals 120 iterations_
 * ponderationL2();
 * activationL2();
 
+#### Error Calculation ####
 * errorCalculation();
 
 #### BackPropagation ####
