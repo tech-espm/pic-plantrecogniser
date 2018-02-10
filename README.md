@@ -63,7 +63,7 @@ The output layer has __3__ neurons. The following combination represents one of 
 
 ----------------------------
 
-## Results - c1 (one hidden layer)##
+## Results - c1 (one hidden layer)
 
 #### Sigmoid Function ####
 
@@ -103,7 +103,7 @@ The output layer has __3__ neurons. The following combination represents one of 
  * Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times._
 ---------------------------------------
 
-## Results - c2 (two hidden layers)##
+## Results - c2 (two hidden layers)
 
 #### Sigmoid Function ####
 
@@ -148,7 +148,8 @@ The output layer has __3__ neurons. The following combination represents one of 
 __Activation Functions:__
 * <https://en.wikipedia.org/wiki/Activation_function/>
 
-* __HAYKIN, Simon. Neural Network. 3rd Edition. Artmed. 2008__:
+__HAYKIN, Simon:__ 
+* Neural Network. 3rd Edition. Artmed. 2008
 
 __Rectifier Nonlinearities Improve Neural Network Acoustic Models__:
 * <http://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf/>
