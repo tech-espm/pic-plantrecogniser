@@ -100,7 +100,7 @@ The output layer has __3__ neurons. The following combination represents one of 
   
  ___Obs:___ 
  * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
- * _Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times_.
+ * _Time Exception: Incapacibility of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times_.
 ---------------------------------------
 
 ## Results - c2 (two hidden layers)
@@ -140,13 +140,16 @@ The output layer has __3__ neurons. The following combination represents one of 
   
  ___Obs:___ 
  * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
- * _Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times_.
+ * _Time Exception: Incapacibility of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times_.
 ---------------------------------------
 
 ## References Links ##
 
 __Activation Functions:__
 * <https://en.wikipedia.org/wiki/Activation_function/>
+
+__FACURE, Matheus:__
+* <https://matheusfacure.github.io/2017/07/12/activ-func/>
 
 __HAYKIN, Simon:__ 
 * Neural Network. 3rd Edition. Artmed. 2008
