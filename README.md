@@ -79,7 +79,7 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### Hyperbolic Tangent (tanh) ####
 
 * __2 Neurons:__
-  * _NaN_;
+  * _NaN_;
  
 * __3 Neurons:__
   * 3.00 % Success (1/30 successes);
@@ -90,7 +90,7 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### ReLU (Rectified linear unit) ####
 
 * __2 Neurons:__
-  * _Time Exception_;
+  * _Time Exception_;
  
 * __3 Neurons:__
   * _Time Exception_;
@@ -108,10 +108,10 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### Sigmoid Function ####
 
 * __2 Neurons:__
-  * _NaN_;
+  * _NaN_;
  
 * __3 Neurons:__
- * _NaN_;
+  * _NaN_;
  
 * __8 Neurons:__
   * 33.33 % Success (10/30 successes);
@@ -119,10 +119,10 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### Hyperbolic Tangent (tanh) ####
 
 * __2 Neurons:__
-  * _Time Exception_;
+  * _Time Exception_;
  
 * __3 Neurons:__
- * _Time Exception_;
+  * _Time Exception_;
  
 * __8 Neurons:__
   * 0.00 % Success (0/30 successes);
@@ -130,7 +130,7 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### ReLU (Rectified linear unit) ####
 
 * __2 Neurons:__
-  * _Time Exception_;
+  * _Time Exception_;
  
 * __3 Neurons:__
   * _Time Exception_;
