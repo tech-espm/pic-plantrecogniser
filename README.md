@@ -98,9 +98,9 @@ The output layer has __3__ neurons. The following combination represents one of 
 * __8 Neurons:__
   * _Time Exception_;
   
- ___Obs:__ 
- * NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded;
- * Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times._
+ ___Obs:___ 
+ * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
+ * _Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times_.
 ---------------------------------------
 
 ## Results - c2 (two hidden layers)
@@ -138,9 +138,9 @@ The output layer has __3__ neurons. The following combination represents one of 
 * __8 Neurons:__
   * _Time Exception_;
   
- ___Obs:__ 
- * NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded;
- * Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times._
+ ___Obs:___ 
+ * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
+ * _Time Exception: Incapacibily of converging in a polynomial time, or, at least, the incapacibility of converging in a time next to the sigmoid or tanh functions times_.
 ---------------------------------------
 
 ## References Links ##
