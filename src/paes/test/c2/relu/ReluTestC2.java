@@ -1,6 +1,6 @@
-package paes.test.c2;
+package paes.test.c2.relu;
 
-public class GeneralTestC2 {
+public class ReluTestC2 {
     public static void main(String[] args) {
         int n = 9, minValue = 0;
         String result = "";
@@ -101,7 +101,8 @@ public class GeneralTestC2 {
 
     public static double[] activationFunctionL1(double[] hlo1, double[] hli1) {
         for (int i = 0; i < hlo1.length; i++) {
-            hlo1[i] = 1/(1 + Math.exp(-hli1[i]));
+            if (hli1[i] < 0) hlo1[i] = 0;
+            else if (hli1[i] >= 0) hlo1[i] = hli1[i];
         }
         return hlo1;
     }
@@ -117,7 +118,8 @@ public class GeneralTestC2 {
 
     public static double[] activationFunctionL2(double[] hlo2, double[] hli2) {
         for (int i = 0; i < hlo2.length; i++) {
-            hlo2[i] = 1/(1 + Math.exp(-hli2[i]));
+            if (hli2[i] < 0) hlo2[i] = 0;
+            else if (hli2[i] >= 0) hlo2[i] = hli2[i];
         }
         return hlo2;
     }
@@ -133,7 +135,8 @@ public class GeneralTestC2 {
 
     public static double[] activationFunctionL3(double[] elo, double[] eli) {
         for (int i = 0; i < elo.length; i++) {
-            elo[i] = 1/(1 + Math.exp(-eli[i]));
+            if (eli[i] < 0) elo[i] = 0;
+            else if (eli[i] >= 0) elo[i] = eli[i];
         }
         return elo;
     }
