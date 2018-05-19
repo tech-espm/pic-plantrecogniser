@@ -1,6 +1,6 @@
 # PlantRecogniser - A Neural Network Aproach #
 
-This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.8 for recognise, based on inputs, plants of the family _Iris_.
+This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.8 for recognise, based on inputs, _Iris_ plant-family.
 
 -----------------------------------------------
 
@@ -157,7 +157,7 @@ __HAYKIN, Simon:__
 __Rectifier Nonlinearities Improve Neural Network Acoustic Models__:
 * <http://web.stanford.edu/~awni/papers/relu_hybrid_icml2013_final.pdf/>
 
-__Sample repository:__
+__Sample Repository:__
 * <https://archive.ics.uci.edu/ml/datasets/iris/>
 
 --------------------------------------------------sx
