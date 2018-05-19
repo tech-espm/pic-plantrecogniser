@@ -8,10 +8,10 @@ This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and us
 
 The input layer has __4__ neurons and accept this following normalized values:
 
-* 1. sepal length
-* 2. sepal width
-* 3. petal length 
-* 4. petal width 
+1. sepal length
+2. sepal width
+3. petal length 
+4. petal width 
 
 _Obs: You can find the input values at the data folder._
 
