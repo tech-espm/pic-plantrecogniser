@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79dfb31f-61c7-4113-b4b7-4cc6112083ec" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data/ReLU/ReLU results.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Sigmoid/Sigmoid Results c1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Sigmoid/Sigmoid Results c2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/TanH/TanH results.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Training Samples.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,18 +13,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ReluTestC1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+            <state relative-caret-position="92">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TanhTrainingC1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReluTrainingC1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <element signature="method#main#0;class#ReluTestC1#0" />
-                <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
-                <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
-                <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
-                <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
+                <element signature="method#main#0;class#ReluTrainingC1#0" />
+                <element signature="method#ponderationL1#0;class#ReluTrainingC1#0" />
+                <element signature="method#activationFunctionL1#0;class#ReluTrainingC1#0" />
+                <element signature="method#ponderationL2#0;class#ReluTrainingC1#0" />
+                <element signature="method#activationFunctionL2#0;class#ReluTrainingC1#0" />
+                <element signature="method#errorCalculation#0;class#ReluTrainingC1#0" />
+                <element signature="method#gradientCalculationL2#0;class#ReluTrainingC1#0" />
+                <element signature="method#gradientCalculationL1#0;class#ReluTrainingC1#0" />
+                <element signature="method#weightsUpdateL2#0;class#ReluTrainingC1#0" />
+                <element signature="method#weightsUpdateL1#0;class#ReluTrainingC1#0" />
               </folding>
             </state>
           </provider>
@@ -120,7 +139,22 @@
               <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="c1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="c1" type="462c0819:PsiDirectoryNode" />
               <item name="relu" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -130,6 +164,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paes" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="c1" type="462c0819:PsiDirectoryNode" />
+              <item name="sigmoid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
@@ -138,6 +174,7 @@
               <item name="paes" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="c1" type="462c0819:PsiDirectoryNode" />
+              <item name="tanh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
@@ -178,9 +215,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +242,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SigmoidTrainingC1">
+  <component name="RunManager" selected="Application.ReluTrainingC1">
+    <configuration name="ReluTrainingC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paes.training.c1.relu.ReluTrainingC1" />
+      <module name="03.2 - PlantRecogniser" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paes.training.c1.relu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SigmoidTestC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paes.test.c1.SigmoidTestC1" />
       <module name="03.2 - PlantRecogniser" />
@@ -224,6 +272,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="paes.training.c1.sigmoid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TanhTrainingC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paes.training.c1.tanh.TanhTrainingC1" />
+      <module name="03.2 - PlantRecogniser" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paes.training.c1.tanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,9 +331,13 @@
     <list>
       <item itemvalue="Application.SigmoidTrainingC1" />
       <item itemvalue="Application.SigmoidTestC1" />
+      <item itemvalue="Application.TanhTrainingC1" />
+      <item itemvalue="Application.ReluTrainingC1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReluTrainingC1" />
+        <item itemvalue="Application.TanhTrainingC1" />
         <item itemvalue="Application.SigmoidTrainingC1" />
         <item itemvalue="Application.SigmoidTestC1" />
       </list>
@@ -314,6 +377,7 @@
       <workItem from="1526479819228" duration="472000" />
       <workItem from="1526492456175" duration="233000" />
       <workItem from="1526497732289" duration="272000" />
+      <workItem from="1527184454595" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526479043546</created>
@@ -354,13 +418,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10422000" />
+    <option name="totallyTimeSpent" value="10687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -372,7 +438,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924472" weight="0.3293944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29531723" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29984894" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -382,7 +448,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -431,6 +496,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="method#main#0;class#ReluTestC1#0" />
+            <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
+            <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
+            <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
+            <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -698,39 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="method#main#0;class#ReluTrainingC1#0" />
-            <element signature="method#ponderationL1#0;class#ReluTrainingC1#0" />
-            <element signature="method#activationFunctionL1#0;class#ReluTrainingC1#0" />
-            <element signature="method#ponderationL2#0;class#ReluTrainingC1#0" />
-            <element signature="method#activationFunctionL2#0;class#ReluTrainingC1#0" />
-            <element signature="method#errorCalculation#0;class#ReluTrainingC1#0" />
-            <element signature="method#gradientCalculationL2#0;class#ReluTrainingC1#0" />
-            <element signature="method#gradientCalculationL1#0;class#ReluTrainingC1#0" />
-            <element signature="method#weightsUpdateL2#0;class#ReluTrainingC1#0" />
-            <element signature="method#weightsUpdateL1#0;class#ReluTrainingC1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c2/relu/ReluTrainingC2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -758,13 +804,46 @@
     <entry file="file://$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
           <folding>
             <element signature="method#main#0;class#ReluTestC1#0" />
             <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
             <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
             <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
             <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#ReluTrainingC1#0" />
+            <element signature="method#ponderationL1#0;class#ReluTrainingC1#0" />
+            <element signature="method#activationFunctionL1#0;class#ReluTrainingC1#0" />
+            <element signature="method#ponderationL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#activationFunctionL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#errorCalculation#0;class#ReluTrainingC1#0" />
+            <element signature="method#gradientCalculationL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#gradientCalculationL1#0;class#ReluTrainingC1#0" />
+            <element signature="method#weightsUpdateL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#weightsUpdateL1#0;class#ReluTrainingC1#0" />
           </folding>
         </state>
       </provider>
