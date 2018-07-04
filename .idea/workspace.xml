@@ -17,25 +17,25 @@
       <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="115">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TanhTrainingC1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TanhTrainingC1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReluTrainingC1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReluTrainingC1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="92">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="method#main#0;class#ReluTrainingC1#0" />
@@ -100,125 +100,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="c1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c1" type="462c0819:PsiDirectoryNode" />
-              <item name="relu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c1" type="462c0819:PsiDirectoryNode" />
-              <item name="sigmoid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c1" type="462c0819:PsiDirectoryNode" />
-              <item name="tanh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c2" type="462c0819:PsiDirectoryNode" />
-              <item name="relu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c2" type="462c0819:PsiDirectoryNode" />
-              <item name="sigmoid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03.2 - PlantRecogniser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03.2 - PlantRecogniser" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paes" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="c2" type="462c0819:PsiDirectoryNode" />
-              <item name="tanh" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -228,7 +110,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReluTrainingC1">
+  <component name="RunManager" selected="Application.TanhTrainingC1">
     <configuration name="ReluTrainingC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paes.training.c1.relu.ReluTrainingC1" />
       <module name="03.2 - PlantRecogniser" />
@@ -336,8 +218,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReluTrainingC1" />
         <item itemvalue="Application.TanhTrainingC1" />
+        <item itemvalue="Application.ReluTrainingC1" />
         <item itemvalue="Application.SigmoidTrainingC1" />
         <item itemvalue="Application.SigmoidTestC1" />
       </list>
@@ -378,6 +260,10 @@
       <workItem from="1526492456175" duration="233000" />
       <workItem from="1526497732289" duration="272000" />
       <workItem from="1527184454595" duration="265000" />
+      <workItem from="1530233467750" duration="94000" />
+      <workItem from="1530234106513" duration="232000" />
+      <workItem from="1530295623149" duration="118000" />
+      <workItem from="1530648487138" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526479043546</created>
@@ -418,7 +304,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10687000" />
+    <option name="totallyTimeSpent" value="11228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -426,7 +312,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -448,6 +333,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -496,17 +382,43 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#ReluTrainingC1#0" />
+            <element signature="method#ponderationL1#0;class#ReluTrainingC1#0" />
+            <element signature="method#activationFunctionL1#0;class#ReluTrainingC1#0" />
+            <element signature="method#ponderationL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#activationFunctionL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#errorCalculation#0;class#ReluTrainingC1#0" />
+            <element signature="method#gradientCalculationL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#gradientCalculationL1#0;class#ReluTrainingC1#0" />
+            <element signature="method#weightsUpdateL2#0;class#ReluTrainingC1#0" />
+            <element signature="method#weightsUpdateL1#0;class#ReluTrainingC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="method#main#0;class#ReluTestC1#0" />
-            <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
-            <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
-            <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
-            <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,33 +717,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="91" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="method#main#0;class#ReluTestC1#0" />
-            <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
-            <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
-            <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
-            <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="115">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="92">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="method#main#0;class#ReluTrainingC1#0" />
@@ -845,6 +743,13 @@
             <element signature="method#weightsUpdateL2#0;class#ReluTrainingC1#0" />
             <element signature="method#weightsUpdateL1#0;class#ReluTrainingC1#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
